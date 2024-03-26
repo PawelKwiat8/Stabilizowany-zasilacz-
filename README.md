@@ -1,8 +1,8 @@
 # Stabilizowany zasilacz - Eagle Autodesk
 
 ## Opis projektu
-Celem projektu jest zaprojektowanie w Eagle Autodesk i wytworzenie płytki obwodu
-drukowanego dla regulowanego stabilizowanego zasilacza laboratoryjnego.
+Celem projektu jest zaprojektowanie  i wytworzenie płytki obwodu
+drukowanego dla regulowanego stabilizowanego zasilacza laboratoryjnego, a nastepnie pzylutowanie odpowiednich komponentów.
 
 ## Schemat elektryczny
 ![](zasilacz/images/schemat_elektryczny.PNG)
