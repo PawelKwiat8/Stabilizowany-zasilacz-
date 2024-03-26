@@ -1,4 +1,4 @@
-# Stabilizowany-zasilacz-
+# Stabilizowany zasilacz Eagle Autodesk
 
 ## Opis projektu
 Celem projektu jest zaprojektowanie w Eagle Autodesk i wytworzenie płytki obwodu
